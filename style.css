@@ -1,0 +1,17 @@
+form input, form button{
+  display: block;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+table{
+  border: 2px solid black;
+}
+
+table th, table td {
+  padding: 0 50px;
+}
+
+table tr {
+  border-bottom: 2px solid black;
+}
